@@ -7,5 +7,7 @@ Specifically, I enjoy developing and testing software.
 As for my free time, I also enjoy drawing and playing the piano.
 
 You can find more information about me in the following links below:
+
 LinkedIn: linkedin.com/in/kevinhur99
+
 Email: kevinhur99@gmail.com
